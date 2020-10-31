@@ -1,0 +1,10 @@
+{
+    "prettier.documentSelectors": [
+        "php"
+    ],
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "phpformatter.pharPath": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "phpformatter.composer": true
+}
